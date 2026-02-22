@@ -260,11 +260,6 @@ DocVision-AI-Pro/
 
 ---
 
-# 🛡️ License
-
-MIT License
-
----
 
 # 👨‍💻 Author
 
