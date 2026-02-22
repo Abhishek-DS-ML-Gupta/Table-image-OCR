@@ -1,0 +1,10 @@
+streamlit
+mistralai
+opencv-python
+numpy
+pillow
+beautifulsoup4 
+lxml 
+pandas 
+pymupdf 
+python-docx
